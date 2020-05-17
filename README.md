@@ -2,6 +2,12 @@
 The game was designed to help people who have color weakness improve their resolving ability.
 
 
+## Project Setup
+```
+Load RGB Color Game Project.html on a web browser
+```
+
+
 ## Visualizations
 
 ### Easy Mode
